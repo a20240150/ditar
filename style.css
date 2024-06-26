@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  body{
+  background-color: #0b4366
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #379ad7;
+  border:5px solid white;
+  margin:10px;
+}
+.titulo h1{
+  color: #ffea00;
+  font-family: 'Franklin Gothic Mediun', sans-serif;
+  font-size: 50px;
+}
+
+.subtitulo  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100px;
+}
+  
+
+
+  .subtitulo p{
+  color: #ffffff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow',Arial, sans-serif;
+  font-size: 30px;
+}
+.contenido{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #379ad7;
+  border:5px solid white;
+  margin:10px;
+  height: 200px;
+}
+  .contenido img{
+    height: 180px;
+    margin: 10px;
+  }
+  .contenido p{
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+  }
+
+
+
+  
